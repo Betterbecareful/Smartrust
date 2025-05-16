@@ -24,6 +24,9 @@ At the heart of SmarTrust lies a factory contract deployed on Polkadot's Westend
 * Factory Pattern: A single, on-chain template contract instantiates a unique escrow vault for each buyer-seller pair, parameterized by deposit amounts, arbiters, and timeouts.
 * Shared Security & Efficiency: Leveraging Substrate modules, SmarTrust vaults benefit from Polkadot’s shared security model and fast finality. Gas fees are optimized through Polkadot’s efficient consensus, keeping transaction costs low.
 * Runtime Upgradability: Using Substrate’s upgradeable runtime, vault logic can be enhanced or patched without migrating existing contracts—ensuring future-proof deployments.
+## Video
+
+Video Demo URL : https://youtu.be/ZL2QQ292ca0
 
 ## Installation
 
