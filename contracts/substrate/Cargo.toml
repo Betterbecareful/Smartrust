@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "escrow",
+    "escrow_factory"
+]
+
+[profile.release]
+panic = "abort"
+lto = true
+codegen-units = 1

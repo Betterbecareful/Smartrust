@@ -1,0 +1,17 @@
+[package]
+name = "escrow"
+version = "0.1.0"
+authors = ["Your Name <your@email.com>"]
+edition = "2021"
+
+[dependencies]
+ink = { version = "5.0.0", default-features = false }
+
+[lib]
+name = "escrow"
+path = "lib.rs"
+crate-type = ["cdylib", "rlib"]
+
+[features]
+default = ["std"]
+std = ["ink/std"]
