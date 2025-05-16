@@ -27,6 +27,7 @@ At the heart of SmarTrust lies a factory contract deployed on Polkadot's Westend
 ## Video
 
 Video Demo URL : https://youtu.be/ZL2QQ292ca0
+Loom Vieo URL : https://www.loom.com/share/c75f30b9b26445b480c28828cb65f593
 
 ## Installation
 
